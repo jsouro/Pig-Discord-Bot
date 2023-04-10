@@ -8,9 +8,13 @@ Language: Python 3.8.12
 
 I have added a requirements.txt file but it may be a little skewed. 
 All you need is: 
+
   pip install discord
+
   pip install requests
+
   pip install random
+
   pip install praw
 
 # Some Screenshots

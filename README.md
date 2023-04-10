@@ -4,7 +4,7 @@ A Pig Discord Bot that is going to be continuously updated (hopefully). It can s
 # Technology Used
 Replit was used to keep the program running continously. Discord developer was used to create the bot and obtain the token. Google API to run google searches for pig pictures. Reddits' API for grabbing a the most recent attachment from a specified subreddit. 
 
-Language: Python 
+Language: Python 3.8.12
 
 I have added a requirements.txt file but it may be a little skewed. 
 All you need is: 
